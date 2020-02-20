@@ -1,0 +1,7 @@
+md5: e5187477a865c7e28b4d40a800d3919e
+outs:
+- md5: 89aace8cd5f0d6fbc594bdecd3a588e9
+  path: DSC_3020.jpg
+  cache: true
+  metric: false
+  persist: false

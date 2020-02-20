@@ -1,0 +1,7 @@
+md5: 20ce5fb23f328ce5404106bba546841a
+outs:
+- md5: 226110c001a718f7d7d61ba62edffa3d
+  path: pIMG_9285.jpg
+  cache: true
+  metric: false
+  persist: false
